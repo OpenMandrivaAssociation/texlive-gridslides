@@ -1,6 +1,6 @@
 Name:		texlive-gridslides
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Free form slides with blocks placed on a grid
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gridslides
