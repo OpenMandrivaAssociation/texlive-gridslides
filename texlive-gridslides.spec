@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Free form slides with blocks placed on a grid
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gridslides
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gridslides
 License:	lppl1.3 gpl2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gridslides.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gridslides.doc.r%{version}.tar.xz
